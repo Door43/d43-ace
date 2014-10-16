@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ace:home|Door43 (ace)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ace|d43-ace repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ace/archive/master.zip|d43-ace.zip]]
+
+**Recent Changes**
+{{changes>ns = ace}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ace|Ethnologue data]]
+
